@@ -1,0 +1,24 @@
+h1 {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    border: blueviolet solid 20px;
+    border-radius: 25px;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul {
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+    border: white 2px;
+    border-radius: 25px;
+}
+img {
+    max-height: 400px;
+    max-width: auto;
+    border-radius: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
